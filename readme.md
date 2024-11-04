@@ -1,4 +1,32 @@
-# CodeWars Challenges
+# Solving Interview Problems
+
+Tips, strategies, and sample problems for the tech interview.
+
+### How To Approach Interview Problems
+
+1. **Understand the Problem**: Make sure you understand the problem before you start writing code. Ask clarifying questions if needed.
+2. **Test Cases**: Make sure you understand the input and output requirements. Write down some test cases.
+3. **Brute Force**: Start with a brute force solution. Write down the steps you would take to solve the problem in plain English.
+4. **Optimize**: Once you have a working solution, think about how you can optimize it.
+5. **Write Code**: Write the code for your optimized solution.
+6. **Test**: Test your code with the test cases you wrote down earlier.
+7. **Discuss**: Be prepared to discuss your solution with the interviewer.
+8. **Practice**: Practice as many problems as you can to get better at solving them.
+
+### How To Impress Interviewers
+
+1. **Communicate**: Make sure you communicate your thought process to the interviewer. Talk through your solution and explain your reasoning.
+2. **Ask Questions**: If you're not sure about something, ask questions. It's better to ask for clarification than to make assumptions.
+3. **Test Cases**: Make sure you test your code with different test cases. This shows that you're thorough and care about the quality of your code.
+4. **Optimize**: Try to optimize your solution. Interviewers are looking for candidates who can think critically and come up with efficient solutions.
+
+### Places To Practice Interview Problems
+
+- [Codewars](https://www.codewars.com/) - our recommendation for getting started
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+### Codewars Problems
 
 A collection of interview problems from Codewars.
 
