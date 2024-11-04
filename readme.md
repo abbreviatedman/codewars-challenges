@@ -30,7 +30,6 @@ Tips, strategies, and sample problems for the tech interview.
 
 A collection of interview problems from Codewars.
 
-- [What Time Is It?](https://www.codewars.com/kata/57729a09914da60e17000329/)
 - [Well Of Ideas - Easy](https://www.codewars.com/kata/57f222ce69e09c3630000212/)
 - [Well Of Ideas - Harder](https://www.codewars.com/kata/57f22b0f1b5432ff09001cab)
 - [Count Vowels](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)
